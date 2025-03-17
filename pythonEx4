@@ -1,0 +1,8 @@
+age=int(input("Enter your age:"))
+if(age<=19):
+    print("You are qualify for student discounts")
+if(age>=20 and age<=54):
+    print("No age discounts for you")
+if(age>54):
+    print("You are qualify for senior discounts")
+

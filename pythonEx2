@@ -1,0 +1,3 @@
+name=input("Enter your name:")
+upper_name=name.upper()
+print("the name in all capital letters is:",upper_name)

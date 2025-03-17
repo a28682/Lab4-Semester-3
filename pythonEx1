@@ -1,0 +1,3 @@
+number=int(input("Enter a number:"))
+twict_number=2*number
+print("Twict the entered number is:",twict_number)
